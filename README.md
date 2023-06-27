@@ -1,4 +1,4 @@
-# Library-management-system-C-
+# Library-management-system-CPP
 This is a small library management system written in CPP.
 
 Here are a few improvements recommended to this:
