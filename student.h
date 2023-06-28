@@ -1,5 +1,5 @@
 #include <string>
-// extra comment
+
 namespace stn
 {
     class Student
